@@ -30,9 +30,6 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind" />
     <img src="https://skillicons.dev/icons?i=javascript,c,java" /><br>
 </div>
-
 <br/>
-<hr/>
-
 <hr/>
 
