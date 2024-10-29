@@ -8,13 +8,6 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **improving my skills**
- 
- 🌱 I’m currently learning **Python**
-
- </div>
  
 <div align="center"> 
   <a href="ghalayinisaleh9@gmail.com">
