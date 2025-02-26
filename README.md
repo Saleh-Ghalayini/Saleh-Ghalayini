@@ -16,5 +16,5 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saleh-Ghalayini&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="saleh-ghalayini" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saleh-Ghalayini&theme=tokyonight&hide_border=true" alt="saleh-ghalayini" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saleh-Ghalayini&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&count_private=true" alt="saleh-ghalayini" height="195"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saleh-Ghalayini&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="saleh-ghalayini" height="195"/>
 </p>
