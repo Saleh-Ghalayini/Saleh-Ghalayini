@@ -1,5 +1,5 @@
 <h3 align="center"> A Software Developer, and a tech enthusiast</h3>
-<p align="center">I’m currently learning <strong>Full Stack Software Engineer</strong></p>
+<p align="center">Currently learning <strong>Full Stack Software Engineering</strong></p>
 <p align="center">Contact me at: <a href="mailto:ghalayinisaleh9@gmail.com"><strong>ghalayinisaleh9@gmail.com</strong></a></p>
 
 ---
